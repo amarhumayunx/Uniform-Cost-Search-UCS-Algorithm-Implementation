@@ -20,3 +20,21 @@ The goal of the UCS algorithm is to find the least-cost paths from a start node 
 - **Start Node**: `S`
 - **Goal Nodes**: `G1`, `G2`, `G3`
 - **Objective**: Find the least-cost paths from the start node to all goal nodes, displaying the paths and their costs.
+- **Edge Costs**: Specified in the graph dictionary in the code.
+
+---
+
+## 📂 Repository Structure
+
+📁 Uniform-Cost-Search 
+├── ucs_no_libraries.py # Python script implementing the UCS algorithm 
+└── README.md # Project documentation
+
+---
+
+## 🛠️ How to Run the Code
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amarhumayunx/ucs-implementation.git
+
