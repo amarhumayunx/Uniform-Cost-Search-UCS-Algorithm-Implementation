@@ -29,6 +29,7 @@ The goal of the UCS algorithm is to find the least-cost paths from a start node 
 📁 Uniform-Cost-Search
 
 ├── ucs_no_libraries.py # Python script implementing the UCS algorithm 
+
 └── README.md # Project documentation
 
 ---
